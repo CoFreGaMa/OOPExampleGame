@@ -4,7 +4,7 @@
 package spiel;
 
 /**
- * @author clecon
+ * @author mueller
  * @version 1.0; 09/2011
  *
  */
